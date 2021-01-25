@@ -122,9 +122,9 @@ h3 {
 }
 
 .container-center {
-    max-width: 1300px;
+    max-width: 1700px;
     margin: 0 auto;
-    display: inline-block;
+    display: flex;
 
     @media screen and(max-width: 1280px) {
         max-width: 1220px;
